@@ -1,0 +1,27 @@
+﻿  Building 'udf' with toolset 'WindowsUserModeDriver10.0' and the 'Universal' target platform.
+  Stamping Debug\udf.inf
+  Stamping [Version] section with DriverVer=07/26/2022,10.47.51.78
+  Device.c
+  Driver.c
+  Queue.c
+  Generating Code...
+     Creating library C:\Users\Administrator\source\repos\udf\Debug\udf.lib and object C:\Users\Administrator\source\repos\udf\Debug\udf.exp
+  udf.vcxproj -> C:\Users\Administrator\source\repos\udf\Debug\udf.dll
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Administrator\source\repos\udf\Debug\udf.dll
+  
+  Driver is a Universal Driver.
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\Administrator\source\repos\udf\Debug\udf\udf.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Administrator\source\repos\udf\Debug\udf\udf.cat
+  

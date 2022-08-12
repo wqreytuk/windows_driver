@@ -1,0 +1,26 @@
+﻿  Building 'echo_2' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Debug\echo_2.inf
+  Stamping [Version] section with DriverVer=07/26/2022,15.53.19.384
+  device.c
+  driver.c
+  queue.c
+  Generating Code...
+  echo_2.vcxproj -> C:\1\Windows-driver-samples-253337\general\echo\kmdf\driver\DriverSync\x64\Debug\echo_2.sys
+  Done Adding Additional Store
+  Successfully signed: C:\1\Windows-driver-samples-253337\general\echo\kmdf\driver\DriverSync\x64\Debug\echo_2.sys
+  
+  Driver is a Universal Driver.
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\1\Windows-driver-samples-253337\general\echo\kmdf\driver\DriverSync\x64\Debug\echo_2\kmdfsamples.cat
+  Done Adding Additional Store
+  Successfully signed: x64\Debug\echo_2\kmdfsamples.cat
+  

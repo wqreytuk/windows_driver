@@ -1,0 +1,5 @@
+﻿  Building 'ioctlapp' with toolset 'WindowsApplicationForDrivers10.0' and the 'Desktop' target platform.
+  install.c
+  testapp.c
+  Generating Code...
+  ioctlapp.vcxproj -> C:\Users\Administrator\Documents\microsoft Windows-driver-samples main setup-devcon (1)\microsoft windows-driver-samples main general-ioctl_wdm\exe\x64\Debug\ioctlapp.exe

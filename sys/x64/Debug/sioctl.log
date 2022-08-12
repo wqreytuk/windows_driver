@@ -1,0 +1,9 @@
+﻿  Building 'sioctl' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Assembling test.asm...
+  sioctl.c
+  sioctl.vcxproj -> C:\Users\Administrator\Documents\microsoft Windows-driver-samples main setup-devcon (1)\microsoft windows-driver-samples main general-ioctl_wdm\sys\x64\Debug\sioctl.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Administrator\Documents\microsoft Windows-driver-samples main setup-devcon (1)\microsoft windows-driver-samples main general-ioctl_wdm\sys\x64\Debug\sioctl.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  

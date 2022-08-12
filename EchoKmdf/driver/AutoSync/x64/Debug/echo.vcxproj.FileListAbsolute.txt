@@ -1,0 +1,1 @@
+C:\1\Windows-driver-samples-253337\general\echo\kmdf\driver\AutoSync\x64\Debug\echo.sys

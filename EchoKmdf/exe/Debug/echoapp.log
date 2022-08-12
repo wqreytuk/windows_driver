@@ -1,0 +1,4 @@
+﻿  Building 'echoapp' with toolset 'WindowsApplicationForDrivers10.0' and the 'Universal' target platform.
+  echoapp.cpp
+  echoapp.vcxproj -> C:\1\Windows-driver-samples-253337\general\echo\kmdf\exe\Debug\echoapp.exe
+  Driver is a Universal Driver.
