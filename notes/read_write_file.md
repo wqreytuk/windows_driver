@@ -1,4 +1,5 @@
 references:
+
  - https://support.microsoft.com/en-us/topic/how-to-open-a-file-from-a-kernel-mode-device-driver-and-how-to-read-from-or-write-to-the-file-45f7de35-cac4-8d83-9520-a7e480ca404d
 
 write file in kernel mode code
@@ -25,7 +26,7 @@ the following code illustrates how to refer to a file by its object name:
 
 ```c
 UNICODE_STRING		uniName;
-OBJECT_ATTRIBUTEs	objAttr;
+OBJECT_ATTRIBUTES	objAttr;
 
 // you can also use L"\\SystemRoot\\example.txt"
 RtlInitUnicodeString(&uniName, L"\\DosDevices\\C:\\Windows\\Example.txt");
@@ -133,16 +134,3 @@ if(NT_SUCCESS(ntstatus)) {
     ZwCLose(handle);
 }
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
